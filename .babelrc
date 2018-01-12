@@ -1,0 +1,10 @@
+{
+	"presets": [
+		"env"
+	],
+	"sourceMaps": "inline",
+	"plugins": [
+		"transform-es2015-modules-commonjs"
+	],
+	"filename": "src/**.js"
+}
